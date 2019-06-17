@@ -1,4 +1,4 @@
-# Breaking the Records Hackerrank Algorithm Solution
+# Divisible Sum Pairs Hackerrank Algorithm Solution
 
 You can find the [Divisible Sum Pairs algorithm here](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem).
 
